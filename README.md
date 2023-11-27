@@ -3,9 +3,13 @@
 Ensure you have the following dependencies installed:
 
 Python (>= 3.6)
+
 PyTorch (latest version recommended)
+
 NumPy
+
 Matplotlib
+
 Pillow (PIL)
 
 ## Setup
