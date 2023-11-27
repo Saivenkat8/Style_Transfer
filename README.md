@@ -18,22 +18,25 @@ cd style-transfer
 
 ## Install Dependencies:
 
-bash
+```bash
 pip install -r requirements.txt
 This command will install the required Python packages.
+```
 
 Download VGG19 Model:
 
-bash
+```bash
 wget https://download.pytorch.org/models/vgg19-dcbb9e9d.pth -P models/
+```
 
 This downloads the VGG19 model pre-trained weights.
 
 
 ## Open the Jupyter Notebook:
 
-bash
+```bash
 jupyter notebook style_transfer_notebook.ipynb
+```
 This will open the Jupyter Notebook in your default web browser.
 
 ## Execute the Cells:
