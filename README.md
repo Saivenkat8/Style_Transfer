@@ -11,10 +11,12 @@ Pillow (PIL)
 ## Setup
 ## Clone the Repository:
 
-bash
+```bash
 git clone https://github.com/your-username/style-transfer.git
 cd style-transfer
-Install Dependencies:
+```
+
+## Install Dependencies:
 
 bash
 pip install -r requirements.txt
