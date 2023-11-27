@@ -20,8 +20,8 @@ cd style-transfer
 
 ```bash
 pip install -r requirements.txt
-This command will install the required Python packages.
 ```
+This command will install the required Python packages.
 
 Download VGG19 Model:
 
